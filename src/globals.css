@@ -1,0 +1,40 @@
+.lds-ring {
+    width: 64px;
+    height: 64px;
+    border: 8px solid rgb(24, 117, 240);
+    border-radius: 50%;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    border-color: rgb(24, 117, 240) transparent transparent transparent;
+  }
+  .lds-ring div:nth-child(1) {
+    animation-delay: -0.45s;
+  }
+  .lds-ring div:nth-child(2) {
+    animation-delay: -0.3s;
+  }
+  .lds-ring div:nth-child(3) {
+    animation-delay: -0.15s;
+  }
+  @keyframes lds-ring {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+.str-chat,
+.str-chat-channel,
+.str-chat__container {
+    height: 75vh !important;
+    max-height: 75vh !important;
+}
+.str-chat.messaging, .str-chat.commerce {
+    background-color: #ffffff !important;
+}
+.str-chat__loading-indicator{
+    display: none !important;
+}
+.div-suggest{
+  min-width: 100%; min-height: 100%; display: flex; align-items: stretch; justify-content: center;
+}

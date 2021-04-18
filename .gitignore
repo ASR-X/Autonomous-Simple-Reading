@@ -1,0 +1,5 @@
+node_modules
+yarn-error.log
+dist/bundle.js
+*.woff2
+backend/.venv

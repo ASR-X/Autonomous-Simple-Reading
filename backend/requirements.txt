@@ -1,0 +1,8 @@
+stream-chat
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
+openai
+bert-extractive-summarizer
+sentencepiece
