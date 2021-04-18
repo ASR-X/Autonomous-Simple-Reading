@@ -12,8 +12,8 @@ Using OpenAI's third iteration of Generative Pre-trained Transformer (GPT), we h
 With Stream.io's chat interface, we bring a very familiar and easy to use interface for interacting with GPT-3. It is very similar to modern IM platforms such as Messenger and Slack, so you will feel right at home. Don't worry about temperatures or frequency penalty's, we've already tuned them for you.
 
 ## Try it out!
-The prototype for Autonomous Simple Reading is publicly available at https://autonomous-simple-reading.webflow.io/ - give it a test!  
-This GitHub repository is a mix of compiled react components in `./` and the exported Colab Python Notebook and Python source in `./backend/` 
+ - The prototype for Autonomous Simple Reading is publicly available at https://autonomous-simple-reading.webflow.io/ - give it a test!  
+ - This GitHub repository is a mix of compiled react components in `./` and the `fastapi` source in `./backend/` 
 
 ## What's next for Autonomous Simple Reading  
 - More interactive chatbot with different personalities
