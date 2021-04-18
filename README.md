@@ -13,7 +13,7 @@ With Stream.io's chat interface, we bring a very familiar and easy to use interf
 
 ## Try it out!
  - The prototype for Autonomous Simple Reading is publicly available at https://autonomous-simple-reading.webflow.io/ - give it a test!  
- - This GitHub repository is a mix of compiled react components in `./` and the `fastapi` source in `./backend/` 
+ - This GitHub repository is a mix of compiled `react` components in `./` and the `fastapi` source in `./backend/` 
 
 ## What's next for Autonomous Simple Reading  
 - More interactive chatbot with different personalities
