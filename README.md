@@ -9,7 +9,7 @@ The internet has a vast array of literature to learn and grow from. This content
 Using OpenAI's third iteration of Generative Pre-trained Transformer (GPT), we have integrated truly capable NLP AI into text simplification. With a custom dataset of simplified summaries, Autonomous Simple Reading brings state-of-the-art natural language AI to help those with impaired learning.
 
 ## Easy to use interface
-With Stream.io's chat interface, we bring a very familiar and easy to use interface for interacting with GPT-3. It is very similar to modern IM platforms such as Messenger and Slack, so you will feel right at home. Don't worry about temperatures or frequency penalty's, we've already tuned them for you.
+With Stream.io's chat interface, we bring a very familiar and easy to use interface for interacting with GPT-3. It is very similar to modern IM platforms such as Messenger and Slack, so you will feel right at home. Don't worry about temperatures or frequency penalties, we've already tuned them for you.
 
 ## Try it out!
  - The prototype for Autonomous Simple Reading is publicly available at https://autonomous-simple-reading.webflow.io/ - give it a test!  
